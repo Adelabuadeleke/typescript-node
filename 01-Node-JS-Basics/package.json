@@ -1,0 +1,22 @@
+{
+  "name": "typescript-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adelabuadeleke/typescript-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adelabuadeleke/typescript-node/issues"
+  },
+  "homepage": "https://github.com/Adelabuadeleke/typescript-node#readme",
+  "dependencies": {
+    "@types/node": "^18.0.6"
+  }
+}
